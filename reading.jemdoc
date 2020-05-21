@@ -1,0 +1,41 @@
+# jemdoc: menu{MENU}{index.html}, nofooter
+== Wireless Communications 
+
+== 2-2018
+. [Localization] Tran, Duc A., and Thinh Nguyen. "Localization in wireless sensor networks based on support vector machines." IEEE Transactions on Parallel and Distributed Systems 19.7 (2008): 981-994.
+. [Backscatter] Qian, Jing, et al. "Noncoherent detections for ambient backscatter system." IEEE Transactions on Wireless Communications 16.3 (2017): 1412-1422.
+. [Machine learning] Alsheikh, Mohammad Abu, et al. "Machine learning in wireless sensor networks: Algorithms, strategies, and applications." IEEE Communications Surveys & Tutorials 16.4 (2014): 1996-2018.
+. [Machine learning] Jiang, Chunxiao, et al. "Machine learning paradigms for next-generation wireless networks." IEEE Wireless Communications 24.2 (2017): 98-105.
+. [UAV] Wu, Qingqing, Yong Zeng, and Rui Zhang. "Joint trajectory and communication design for multi-UAV enabled wireless networks." IEEE Transactions on Wireless Communications 17.3 (2018): 2109-2121.
+
+== 12-2-2018
+. [Teaching] Yelamarthi, Kumar, and Eron Drake. "A flipped first-year digital circuits course for engineering and technology students." IEEE Transactions on Education 58.3 (2015): 179-186.
+. [Network] Haenggi, M., Andrews, J. G., Baccelli, F., Dousse, O., & Franceschetti, M. (2009). Stochastic geometry and random graphs for the analysis and design of wireless networks. IEEE Journal on Selected Areas in Communications, 27(7).
+. [mmWave] Andrews, J. G., Bai, T., Kulkarni, M. N., Alkhateeb, A., Gupta, A. K., & Heath, R. W. (2017). Modeling and analyzing millimeter wave cellular systems. IEEE Transactions on Communications, 65(1), 403-430
+
+
+== 11-25-2018
+. [IoT](11-16-2018) Shi, W., Cao, J., Zhang, Q., Li, Y., & Xu, L. (2016). Edge computing: Vision and challenges. IEEE Internet of Things Journal, 3(5), 637-646.
+. [IoT](11-17-2018) Chiang, Mung, and Tao Zhang. "Fog and IoT: An overview of research opportunities." IEEE Internet of Things Journal 3.6 (2016): 854-864.
+. [IoT](11-18-2018) Gu, Yunan, et al. "Joint Radio and Computational Resource Allocation in IoT Fog Computing." IEEE Transactions on Vehicular Technology (2018).
+. [Control](11-19-2018) Tatikonda, Sekhar, Anant Sahai, and Sanjoy Mitter. "Stochastic linear control over a communication channel." IEEE transactions on Automatic Control 49.9 (2004): 1549-1561.
+. [Control](11-21-2018) Gatsis, Konstantinos, Hamed Hassani, and George J. Pappas. "Latency-Reliability Tradeoffs for State Estimation." arXiv preprint arXiv:1810.11831 (2018).
+. (11-19-2018) Kalman Filter [http://web.mit.edu/kirtley/kirtley/binlustuff/literature/control/Kalman%20filter.pdf pdf]
+. [Cellular](11-24-2018) Andrews, Jeffrey G., François Baccelli, and Radha Krishna Ganti. "A tractable approach to coverage and rate in cellular networks." IEEE Transactions on communications 59.11 (2011): 3122-3134.
+. Intro to Stochastic Geometry & Point Processes [http://www.eng.ox.ac.uk/sen/files/course2016/lec5.pdf pdf]
+
+== Cognitive Radio
+. Haykin, Simon. "Cognitive radio: brain-empowered wireless communications." IEEE journal on selected areas in communications 23.2 (2005): 201-220.
+. Azad, Umar, and Yuanxun Ethan Wang. "Direct antenna modulation (DAM) for enhanced capacity performance of near-field communication (NFC) link." IEEE Transactions on Circuits and Systems I: Regular Papers 61.3 (2014): 902-910.
+. Kisseleff, Steven, Ian F. Akyildiz, and Wolfgang H. Gerstacker. "Digital signal transmission in magnetic induction based wireless underground sensor networks." IEEE Transactions on Communications 63.6 (2015): 2300-2311.
+. Markham, Andrew, and Niki Trigoni. "Magneto-inductive networked rescue system (MINERS): taking sensor networks underground." Proceedings of the 11th international conference on Information Processing in Sensor Networks. ACM, 2012.
+. Jadidian, Jouya, and Dina Katabi. "Magnetic MIMO: How to charge your phone in your pocket." Proceedings of the 20th annual international conference on Mobile computing and networking. ACM, 2014.
+. Vallecchi, A., et al. “Coupling between Coils in the Presence of Conducting Medium.” IET Microwaves, Antennas and Propagation, 2018.
+. Letzepis, Nick, et al. "Outage analysis of the hybrid free-space optical and radio-frequency channel." IEEE Journal on Selected Areas in Communications 27.9 (2009).
+
+
+
+
+= Research, Writing, and Reading
+
+. (11-18-2018) Keshav, S. "How to read a paper." ACM SIGCOMM Computer Communication Review 37.3 (2007): 83-84.

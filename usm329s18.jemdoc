@@ -1,0 +1,23 @@
+# jemdoc: menu{MENU}{index.html}, nofooter
+=EGN 329 Electromechanical and Control Systems Laboratory
+
+== Tentative Schedule
+~~~
+{}{table}{Schedule}
+|Meeting time  | Topic |  Reading|Assignment||
+1|1-26 | | |   ||
+2|2-2 | | |   ||
+3|2-9  | Control system design using MATLAB| |   ||
+4|2-16 |Control system design using Simulink | |   || 
+5|2-23 | | |   ||    
+6|3-2  | | |   || 
+7|3-9  | | |   || 
+8|3-16  | *Spring break* | |   ||
+9|3-23  | | |   ||
+10|3-30  |  | |   ||
+11|4-6  | | |   ||
+12|4-13  | | |   ||
+13|4-20  |Root-Locus analysis using 'duck' robot platform| |   ||
+14|4-27  | PID controller design, part 1| |   ||
+15|5-4  | PID controller design, part 2| |   ||
+~~~

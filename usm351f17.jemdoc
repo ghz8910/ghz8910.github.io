@@ -1,0 +1,39 @@
+# jemdoc: menu{MENU}{index.html}, nofooter
+= ELE 351 Electromagnetic Fields
+
+== Tentative Schedule
+~~~
+{}{table}{Schedule}
+|Meeting time  | Topic |  Reading|Assignment||
+1|8-29 | Introduction: waves and phasors| Chapter 1 | ||
+2|8-31 | Waves and phasors| Chapter 1 | ||
+3|9-5  | Transmission line  | Chapter 2.1-2.3  | ||
+4|9-7  | Transmission line  | Chapter 2.3-2.5 | ||
+5|9-12  | Transmission line  | Chapter 2.6-2.7 | ||
+6|9-14  | Vector analysis  | Chapter 3.1-3.3 | ||
+7|9-19  | Vector analysis,Electrostatics | Chapter 3.4-3.7,Chapter 4.1-4.3 | ||
+8|9-21  |  Electrostatics  | Chapter 4.4-4.5   | ||
+9|9-26  |  Electrostatics   |Chapter 4.6-4.10| HW1 due ||
+10|9-28  | Electrostatics  | Chapter 4.6-4.10 | ||
+11|10-3  | Magnetostatics | Chapter 5.1-5.2 | HW2 due||
+12|10-5  | Magnetostatics  | Chapter 5.3-5.4  | ||
+13|10-10  | Fall break, no class  |  | ||
+14|10-12  | *Midterm*   | Chapter 1 -4  | ||
+15|10-17  | Electromagnetic simulation using CST  |  | ||
+16|10-19  | Magnetostatics  | Chapter 5.5-5.8  | ||
+17|10-24  | Maxwell’s equation for time-varying fields | Chapter 6.1-6.2 | ||
+18|10-26  | Maxwell’s equation for time-varying fields | Chapter 6.3-6.6  | ||
+19|10-31  | Maxwell’s equation for time-varying fields | Chapter 6.7-6.10  | ||
+20|11-2  |  Plane wave propagation   | Chapter 7.1-7.2  | Project Proposal due ||
+21|11-7  |  Plane wave propagation   | Chapter 7.3-7.4|  ||
+22|11-9  |  Plane wave propagation | Chapter 7.5-7.6 | HW 3 due ||
+23|11-14  | Wave reflection and transmission  | Chapter 8.1-8.3 |  ||
+24|11-16  |  Wave reflection and transmission  | Chapter 8.4-8.6 |  ||
+25|11-21  |   Wave reflection and transmission  | Chapter 8.7-8.10 |  ||
+26|11-23  | Thanksgiving, no class |  | ||
+27|11-28  |  Radiation and antennas | Chapter 9.1-9.2 |  ||
+28|11-30  |  Radiation and antennas | Chapter 9.2-9.3 | HW 4 due  ||
+29|12-5  | Satellite communication systems and radar sensors | Chapter 10.1-10.6  |  ||
+20|12-7  |  Final exam review | |  ||
+~~~
+

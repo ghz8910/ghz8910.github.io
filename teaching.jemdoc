@@ -1,8 +1,18 @@
-# jemdoc: menu{MENU}{index.html}, nofooter
+# jemdoc: menu{MENU1}{index.html}, nofooter
 == Teaching
 
 == Norfolk State University
-=== Spring 2019
+
+=== Fall 2020
+- EEN 231 Digital Logic
+- EEN 231L Digital Logic Lab
+- EEN 646 Wireless Communication
+
+=== Spring 2020
+- EEN 231 Digital Logic
+- EEN 231L Digital Logic Lab
+- EEN 451/551 Communication System Engineering 
+=== Fall 2019
 - EEN 231 Digital Logic
 - EEN 231L Digital Logic Lab
 - EEN 646 Wireless Communication

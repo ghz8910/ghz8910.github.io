@@ -1,8 +1,61 @@
-# jemdoc: menu{MENU}{index.html}, nofooter
+# jemdoc: menu{MENU1}{index.html}, nofooter
 == Students
 
-- Ruth Frimpong, (M.S.), 2019- 
-- Bincy Ben, (M.S.), 2019-
+=== Current Students
+
+~~~
+{}{img_left}{ofori.JPG}{}{131}{160}{}
+Albert Ofori \n
+MS Student \n
+Electronics Engineering \n
+2020 - \n
+~~~
+
+~~~
+{}{img_left}{prince.jpg}{}{131}{160}{}
+Marlin Prince \n
+Undergraduate Student \n
+Electronics Engineering \n
+2020 - \n
+~~~
+
+~~~
+{}{img_left}{chapman.jpg}{}{131}{160}{}
+Ryan Chapman \n
+Undergraduate Student \n
+Electronics Engineering \n
+2020 - \n
+~~~
+
+~~~
+{}{img_left}{Washington.jpg}{}{131}{160}{}
+Terrell Washington \n
+Undergraduate Student \n
+Computer Science \n
+2020 - \n
+~~~
+
+=== Graduated Students
+
+~~~
+{}{img_left}{bincy.jpg}{}{131}{160}{}
+Bincy Ben \n
+MS Student \n
+Electronics Engineering \n
+2019 - 2020 \n
+Micron \n
+~~~
+
+~~~
+{}{img_left}{tekyi.jpeg}{}{131}{160}{}
+Daniel Tekyi \n
+MS Student \n
+Electronics Engineering \n
+2019 - 2020 \n
+Amazon \n
+~~~
+
+- Daniel Kumatey, (MS Student), 2019
 - Will Turner, (Senior), 2018 Fall
 - Josh Markee, (Senior), 2018 Fall
 - Luke Smith, (Senior), 2017 Fall

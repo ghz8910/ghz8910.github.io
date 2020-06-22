@@ -1,45 +1,44 @@
-/* madeleine udell's css file for jemdoc. */
+/* Default css file for jemdoc. */
 
 table#tlayout {
-    border: none;
-    border-collapse: separate;
-    background: #ffffff;
+	border: none;
+	border-collapse: separate;
+	background: white;
 }
 
 body {
-	background: #ffffff;
-	font-family: Verdana;
+	background: white;
+	font-family: Georgia, serif;
 	padding-bottom: 8px;
 	margin: 0;
 }
 
 #layout-menu {
-	background: #d8d2c9;
-	border: 1px solid #9fad9f;
+	background: #f6f6f6;
+	border: 1px solid #dddddd;
 	padding-top: 0.5em;
 	padding-left: 8px;
 	padding-right: 8px;
 	font-size: 1.0em;
 	width: auto;
 	white-space: nowrap;
-    text-align: left;
-    vertical-align: top;
-    color: #00008B;
+	text-align: left;
+	vertical-align: top;
 }
 
 #layout-menu td {
-	background: #d8d2c9;
-    vertical-align: top;
+	background: #f4f4f4;
+	vertical-align: top;
 }
 
 #layout-content {
 	padding-top: 0.0em;
 	padding-left: 1.0em;
 	padding-right: 1.0em;
-    border: none;
-    background: #ffffff;
-    text-align: left;
-    vertical-align: top;
+	border: none;
+	background: white;
+	text-align: left;
+	vertical-align: top;
 }
 
 #layout-menu a {
@@ -48,7 +47,7 @@ body {
 }
 
 tt {
-    background: #ffffdd;
+	background: #ffffdd;
 }
 
 pre, tt {
@@ -57,20 +56,20 @@ pre, tt {
 }
 
 a, a > tt {
-	color: #0068ac;
+	color: #224b8d;
 	text-decoration: none;
 }
 
 a:hover {
-	border-bottom: 1px #073949 dotted;
+	border-bottom: 1px gray dotted;
 }
 
 #layout-menu a.current:link, #layout-menu a.current:visited {
-	color: #073949;
-	border-bottom: 1px #073949 solid;
+	color: #022b6d;
+	border-bottom: 1px gray solid;
 }
 #layout-menu a:link, #layout-menu a:visited, #layout-menu a:hover {
-	color: #0068ac;
+	color: #527bbd;
 	text-decoration: none;
 }
 #layout-menu a:hover {
@@ -78,7 +77,7 @@ a:hover {
 }
 
 div.menu-category {
-	border-bottom: 1px solid #073949;
+	border-bottom: 1px solid gray;
 	margin-top: 0.8em;
 	padding-top: 0.2em;
 	padding-bottom: 0.1em;
@@ -93,7 +92,7 @@ div.menu-item {
 div#toptitle {
 	padding-bottom: 0.2em;
 	margin-bottom: 1.5em;
-	border-bottom: 3px double #073949;
+	border-bottom: 3px double gray;
 }
 
 /* Reduce space if we begin the page with a title. */
@@ -118,13 +117,13 @@ strong {
 
 
 h1, h2, h3 {
-	color: #00008B;
+	color: #527bbd;
 	margin-top: 0.7em;
 	margin-bottom: 0.3em;
 	padding-bottom: 0.2em;
 	line-height: 1.0;
 	padding-top: 0.5em;
-	border-bottom: 1px solid #073949;
+	border-bottom: 1px solid #aaaaaa;
 }
 
 h1 {
@@ -137,7 +136,7 @@ h2 {
 }
 
 h2 + h3 {
-    padding-top: 0.2em;
+	padding-top: 0.2em;
 }
 
 h3 {
@@ -159,14 +158,14 @@ pre {
 
 div#footer {
 	font-size: small;
-	border-top: 1px solid #222222;
+	border-top: 1px solid #c0c0c0;
 	padding-top: 0.1em;
 	margin-top: 4.0em;
-	color: #222222;
+	color: #c0c0c0;
 }
 
 div#footer a {
-	color: #0068ac;
+	color: #80a0b0;
 }
 
 div#footer-text {
@@ -246,12 +245,12 @@ div.blocktitle {
 }
 
 div.blockcontent {
-	border: 1px solid #9fad9f;
+	border: 1px solid silver;
 	padding: 0.3em 0.5em;
 }
 
 div.infoblock > div.blockcontent {
-	background: SeaShell;
+	background: #ffffee;
 }
 
 div.blockcontent p + ul, div.blockcontent p + ol {
@@ -271,7 +270,7 @@ div.infoblock p + p {
 }
 
 div.codeblock > div.blockcontent {
-	background: #d8d2c9;
+	background: #f6f6f6;
 }
 
 span.pycommand {
@@ -298,7 +297,10 @@ span.comment, span.comment > *, span.string, span.string > * {
 }
 
 @media print {
-	#layout-menu { display: none; }
+	#layout-menu {
+		display: none;
+	}
+
 }
 
 #fwtitle {
@@ -337,124 +339,32 @@ img.eqwl {
 }
 
 table {
-    border: 2px solid black;
-    border-collapse: collapse;
+	border: 2px solid black;
+	border-collapse: collapse;
 }
 
 td {
-    padding: 2px;
-    padding-left: 0.5em;
-    padding-right: 0.5em;
-    text-align: center;
-    border: 1px solid #073949;
-}
-
-table + table {
-    margin-top: 1em;
-}
-
-tr.heading {
-    font-weight: bold;
-    border-bottom: 2px solid black;
-}
-
-img {
-    border: none;
-}
-
-table.imgtable, table.imgtable td {
-    border: none;
-    text-align: left;
-}
-nt {
-	color: #008800;
-}
-span.builtin {
-	color: #000088;
-}
-span.special {
-	color: #990000;
-}
-span.operator {
-	color: #880000;
-}
-span.error {
-	color: #aa0000;
-}
-span.comment, span.comment > *, span.string, span.string > * {
-	color: #606060;
-}
-
-@media print {
-	#layout-menu { display: none; }
-}
-
-#fwtitle {
-	margin: 2px;
-}
-
-#fwtitle #toptitle {
+	padding: 2px;
 	padding-left: 0.5em;
-	margin-bottom: 0.5em;
-}
-
-#layout-content h1:first-child, #layout-content h2:first-child, #layout-content h3:first-child {
-	margin-top: -0.7em;
-}
-
-div#toptitle h1, #layout-content div#toptitle h1 {
-	margin-bottom: 0.0em;
-	padding-bottom: 0.1em;
-	padding-top: 0;
-	margin-top: 0.5em;
-	border-bottom: none;
-}
-
-img.eq {
-	padding: 0;
-	padding-left: 0.1em;
-	padding-right: 0.1em;
-	margin: 0;
-}
-
-img.eqwl {
-	padding-left: 2em;
-	padding-top: 0.6em;
-	padding-bottom: 0.2em;
-	margin: 0;
-}
-
-table {
-    border: 2px solid black;
-    border-collapse: collapse;
-}
-
-td {
-    padding: 2px;
-    padding-left: 0.5em;
-    padding-right: 0.5em;
-    text-align: center;
-<<<<<<< HEAD
-    border: 1px solid gray;
-=======
-    border: 1px solid #073949;
->>>>>>> jemdoc
+	padding-right: 0.5em;
+	text-align: center;
+	border: 1px solid gray;
 }
 
 table + table {
-    margin-top: 1em;
+	margin-top: 1em;
 }
 
 tr.heading {
-    font-weight: bold;
-    border-bottom: 2px solid black;
+	font-weight: bold;
+	border-bottom: 2px solid black;
 }
 
 img {
-    border: none;
+	border: none;
 }
 
 table.imgtable, table.imgtable td {
-    border: none;
-    text-align: left;
+	border: none;
+	text-align: left;
 }

@@ -1,4 +1,4 @@
-# jemdoc: menu{MENU}{index.html}, nofooter
+# jemdoc: menu{MENU}{index.html}
 ==UPRAM: Underground in-Pipe Robot Autonomous Monitoring 
 
 This project is supported by the National Science Foundation under grant No. HRD1953460.

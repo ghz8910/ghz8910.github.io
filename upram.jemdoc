@@ -1,2 +1,26 @@
 # jemdoc: menu{MENU}{index.html}, nofooter
 ==UPRAM: Underground in-Pipe Robot Autonomous Monitoring 
+
+This project is supported by the National Science Foundation under grant No. HRD1953460.
+
+=== Intellectual Merit
+
+This project makes theoretical and empirical contributions to wireless sensing in extreme environments. Specifically, it advances our knowledge in the following directions: 1) wireless communication systems will be developed for robots in metallic pipes and sensors in the underground soil, which will facilitate the design ofcognitive monitoring system in extreme environments;  2) an extreme environment monitoring network will be developed using sensors and robots and the robot’s motion, sensing, and communication will be jointly optimized to minimize the energy consumption while ensuring the quality-of-service, which can reveal the fundamental interplay of sensors and robots in cooperative and cognitive sensing; 3) to ensure the network robustness, dynamic changes of extreme environments will be considered and adaptive machine learning algorithms will be developed to optimally control the wireless network; and 4) the proposed solutions will be validated by developing and deploying a software-defined testbed in a controllable soil tank, which can bridgethe gap between theoretical design and practical implementation.
+
+=== Broader Impacts
+
+This project will develop theories, algorithms, and platforms for wireless cognitive monitoring in dynamic extreme environments using intelligent robots and sensors. It is expected to advance our knowledge of integrating robots and sensors to accomplish dirty, dangerous, and dull tasks. The research solutions can be applied to various essential applications in extreme environments such as underground aquifer monitoring, underwaterpipeline monitoring, offshore infrastructure monitoring, and nuclear plant mitigation. Undergraduate student research will be integrated into this project, which aims to train their research skills, enhance their learningstyles, and prepare them for advanced studies and professional career development. Approximately ten undergraduate students and graduate students will also be involved in this project. New course materials will be developed to stimulate students’ interest and promote their learning experience at both undergraduate andgraduate levels. The PI will also collaborate with Mathematics faculty to develop electrical engineering examples from this project for students from all STEM majors. Community outreach activities will be leveraged to attract K-12 students to pursue STEM education and broad participation in computing and engineering. Theoutcome of this project will be published and shared with the research community.
+
+=== Participants
+~~~
+{}{img_left}{upram_students.png}{alt text}{591}{370}{}
+~~~
+
+=== Publications
+
+. *Joint Channel and Antenna Modeling for Magnetic Induction Communication in Inhomogeneous Media* \n
+H. Guo and A. A. Ofori\n 
+IEEE Open Journal of the Communications Society, 2020.
+. *BER Analysis and Optimization of Direct Antenna Modulation for Magnetic Induction Communication* \n  
+R. Chapman, M. Prince, and H. Guo \n
+IEEE Radio Wireless Week (RWW), virtual, Jan. 2021

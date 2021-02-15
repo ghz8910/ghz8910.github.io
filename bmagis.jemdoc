@@ -1,0 +1,33 @@
+# jemdoc: menu{MENU1}{index.html}, nofooter
+==BMagis (Battery-free Magnetic Induction Sensor Networks)
+
+This project is supported by the National Science Foundation under grant No. CNS1947748.
+
+=== Intellectual Merit
+
+Different from its counterpart in terrestrial environments, the IoT in inhomogeneous environments is still in its infancy due to the following challenges that have not been fully addressed yet. First, the dense lossy medium significantly attenuates wireless signals, which can allow very limited communication range and prevent us from designing a large scale network using canonical approaches. Second, once the sensors are deployed, it is labor-intensive or even impossible to replace their batteries, which calls for a more energy-efficient solution. Third, the dynamic change and unpredictable surrounding objects in inhomogeneous environments make the communication channel very complicated. To circumvent the aforementioned challenges, the recently developed magnetic induction communication and the backscatter communication are leveraged to provide energy-efficient inter-media communications between tiny battery-free devices. The contributions are in three thrusts: (1) develop physical layer solutions for magnetic induction-based backscatter communication that can dramatically reduce the propagation loss and reflections from boundaries to enable inter-media communications; (2) develop adaptive network control algorithms using machine learning to provide ubiquitous coverage and prolong the lifetime of the system; (3) develop a software-defined testbed to prove the theories and algorithms that are developed in this project, which will also be tested on a research farm. The ultimate goal of this project is to replace today's bulky active wireless sensors using battery-free devices for in-situ sensing applications in inhomogeneous environments.
+
+=== Broader Impacts
+
+This project is expected to advance the development of low-power and low-profile wireless sensing in inhomogeneous environments using passive RFID sensors with backscatter communications by bridging the theoretical foundations and practical implementations. This technology has the potential to radically change the real-time in-situ sensing technologies that are currently used. Although we use precision agriculture as an example in this project, the technology can also find a large number of other important applications such as underwater sensing, concrete wall health monitoring, and water aquifer monitoring. For education and social impacts, this project will provide the students at Norfolk State University, which is one of the largest HBCUs (Historically Black College and University), with immense research resources and experiences, which will prepare them to pursue advanced degrees. Also, novel education models will be developed considering the unique background of underrepresented minority students to promote their learning experiences, which will benefit students at both undergraduate and graduate levels. Community outreach activities based on this project will be leveraged to attract K-12 students to pursue STEM education to strengthen the nation's workforce. 
+
+=== Participants
+~~~
+{}{img_left}{ofori.JPG}{}{131}{160}{}
+Albert Ofori \n
+MS Student \n
+Electronics Engineering \n
+2020 - \n
+~~~
+
+=== Publications
+
+. *Joint Channel and Antenna Modeling for Magnetic Induction Communication in Inhomogeneous Media* \n
+H. Guo and A. A. Ofori\n 
+IEEE Open Journal of the Communications Society, 2020.
+. *MagBB: Wireless Charging for Batteryless Sensors using Magnetic Blind Beamforming* \n
+A. A. Ofori and H. Guo\n 
+IEEE Consumer Communications and Networking Conference (CCNC), virtual, Jan. 2021.
+. *Internet of Things in Extreme Environments using Low-power Long-range Near Field Communication* \n
+H. Guo and A. A. Ofori\n 
+IEEE Internet of Things Magazine

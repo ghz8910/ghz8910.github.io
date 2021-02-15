@@ -1,4 +1,4 @@
-# jemdoc: menu{MENU1}{index.html}, nofooter
+# jemdoc: menu{MENU}{index.html}, nofooter
 ==BMagis (Battery-free Magnetic Induction Sensor Networks)
 
 This project is supported by the National Science Foundation under grant No. CNS1947748.

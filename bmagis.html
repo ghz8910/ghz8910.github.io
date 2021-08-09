@@ -2,26 +2,56 @@
   "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
 <head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="generator" content="jemdoc, see http://jemdoc.jaboc.net/" />
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
-<link rel="stylesheet" href="jemdoc.css" type="text/css" />
-<title>BMagis (Battery-free Magnetic Induction Sensor Networks)</title>
+<link rel="icon" href="icon.png">
+<link rel="stylesheet" href="main.css" type="text/css" />
+<link rel="stylesheet" href="font-awesome/css/font-awesome.min.css">
+<!--- <title>BMagis (Battery-free Magnetic Induction Sensor Networks)</title> --->
+<title></title>
+<!-- MathJax -->
+<script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/latest.js?config=TeX-MML-AM_CHTML' async>
+</script>
+<script type="text/x-mathjax-config">
+MathJax.Hub.Config({
+	  TeX: { equationNumbers: { autoNumber: "AMS" } }
+});
+</script>
+<!-- End MathJax -->
 </head>
 <body>
-<table summary="Table for page layout." id="tlayout">
-<tr valign="top">
-<td id="layout-menu">
+<div id="main-container">
+<div id="header-container">
+<div id="header">
+<div id="header-icon-text-container">
+<div id="header-icon-container" >
+<a href="index.html"><img src="profile2.png" alt="" style="width: 100%; height: 100%; position: center; padding:0px; margin: 0px;"></a>
+</div>
+<div id="header-text-container">
+<a href="index.html"></a>
+</div>
+</div>
+<div id="main">
+<button class="openbtn" onclick="openNav()">☰</button>
+</div>
+</div>
+</div>
+<div id="layout">
+<div id="layout-menu-container">
+<div id="layout-menu">
+<div class="menu-item"><a href="javascript:void(0)" class="closebtn" onclick="closeNav()">×</a></div>
 <div class="menu-category">Hongzhi Guo</div>
 <div class="menu-item"><a href="index.html" class="current">Home</a></div>
-<div class="menu-item"><a href="students.html">Students</a></div>
+<div class="menu-item"><a href="group.html">Students</a></div>
 <div class="menu-item"><a href="teaching.html">Teaching</a></div>
-<div class="menu-item"><a href="publications.html">Publication</a></div>
-<div class="menu-category">Research</div>
-<div class="menu-item"><a href="upram.html">UPRAM</a></div>
-<div class="menu-item"><a href="bmagis.html">BMagis</a></div>
-<div class="menu-item"><a href="surft.html">SURFT</a></div>
-</td>
-<td id="layout-content">
+<div class="menu-item"><a href="publications.html">Publications</a></div>
+<div class="menu-item"><a href="research.html">Research</a></div>
+<div class="menu-item"><a href="service.html">Service</a></div>
+</div> <!-- <div id="layout-menu"> -->
+</div> <!-- <div id="layout-menu-container"> -->
+<div id="layout-content-container">
+<div id="layout-content">
 <div id="toptitle">
 <h1>BMagis (Battery-free Magnetic Induction Sensor Networks)</h1>
 </div>
@@ -31,13 +61,38 @@
 <h3>Broader Impacts</h3>
 <p>This project is expected to advance the development of low-power and low-profile wireless sensing in inhomogeneous environments using passive RFID sensors with backscatter communications by bridging the theoretical foundations and practical implementations. This technology has the potential to radically change the real-time in-situ sensing technologies that are currently used. Although we use precision agriculture as an example in this project, the technology can also find a large number of other important applications such as underwater sensing, concrete wall health monitoring, and water aquifer monitoring. For education and social impacts, this project will provide the students at Norfolk State University, which is one of the largest HBCUs (Historically Black College and University), with immense research resources and experiences, which will prepare them to pursue advanced degrees. Also, novel education models will be developed considering the unique background of underrepresented minority students to promote their learning experiences, which will benefit students at both undergraduate and graduate levels. Community outreach activities based on this project will be leveraged to attract K-12 students to pursue STEM education to strengthen the nation's workforce. </p>
 <h3>Participants</h3>
-<table class="imgtable"><tr><td>
-<img src="ofori.JPG" alt="" width="131px" height="160px" />&nbsp;</td>
-<td align="left"><p>Albert Ofori <br />
-MS Student <br />
-Electronics Engineering <br />
-2020 - <br /></p>
-</td></tr></table>
+<p>
+<div id="member-container">
+<div id="member">
+<img src="group/ofori.JPG" width="130" height="160">
+<p>
+<b>Albert Ofori</b></br>
+MS. EEE ( Intern: Amazon, NSU Outstanding Graduate Student for Research)<br> 2020 - 
+</p>
+</div>
+<div id="member">
+<img src="group/jonathan.png" width="130" height="160">
+<p>
+<b>Jonathan Akafua</b></br>
+MS. EEE, 2021 -
+</p>
+</div>
+<div id="member">
+<img src="group/irvin.jpg" width="130" height="160">
+<p>
+<b>Irvin Quarty</b></br>
+MS. EEE, 2021 -
+</p>
+</div>
+<div id="member">
+<img src="group/Green.jpg" width="130" height="160">
+<p>
+<b>Cameron Green</b></br>
+Senior EEE, 2021 - 
+</p>
+</div>
+</div>
+</p>
 <h3>Publications</h3>
 <ol>
 <li><p><b>Joint Channel and Antenna Modeling for Magnetic Induction Communication in Inhomogeneous Media</b> <br />
@@ -53,8 +108,28 @@ H. Guo and A. A. Ofori<br />
 IEEE Internet of Things Magazine</p>
 </li>
 </ol>
-</td>
-</tr>
-</table>
+</div> <!-- <div id="layout-content-container"> -->
+</div> <!--- <div id="layout"> --->
+</div> <!--- <div id="main-container"> --->
+<script>
+function openNav() {
+    if (window.innerWidth <= 1200) {
+        document.getElementById("layout-menu").style.width = "280px";
+        document.getElementById("layout-content-container").style.marginLeft = "280.8px";
+        document.getElementById("layout-content-container").style.position = "fixed";
+    }
+}
+function closeNav() {
+    if (window.innerWidth <= 1200) {
+        document.getElementById("layout-menu").style.width = "0";
+        document.getElementById("layout-content-container").style.position = "static";
+        document.getElementById("layout-content-container").style.marginLeft = "0px";
+        setInterval(
+            function(){ location.reload() },
+            500
+        );
+    }
+}
+</script>
 </body>
 </html>

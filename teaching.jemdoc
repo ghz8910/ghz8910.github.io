@@ -1,14 +1,37 @@
-# jemdoc: menu{MENU1}{index.html}, nofooter
+# jemdoc: menu{MENU}{index.html}, nofooter
 == Teaching
 
+== University of Nebraska-Lincoln
+
+- CSCE478/878 Introduction to Machine Learning, Fall 2023
+- CSCE451/851 Operating System Principles, Spring 2023
+
 == Norfolk State University
+
+=== Fall 2022
+- EEN 451/551 Communication System Engineering 
+- EEN 498 Senior Design
+
+=== Spring 2022
+- EEN 231 Digital Logic
+- EEN 231L Digital Logic Lab
+- EEN 498 Senior Design
+
+=== Fall 2021
+- EEN 231 Digital Logic
+- EEN 231L Digital Logic Lab
+- EEN 451/551 Communication System Engineering 
+- EEN 498 Senior Design
 
 === Spring 2021
 - EEN 231 Digital Logic
 - EEN 231L Digital Logic Lab
 - EEN 451/551 Communication System Engineering 
 - EEN 646 Wireless Communication
+- EEN 499 Senior Design
+
 === Fall 2020
+- EEN 498 Senior Design
 - EEN 646 Wireless Communication
 
 === Spring 2020
@@ -19,6 +42,7 @@
 - EEN 231 Digital Logic
 - EEN 231L Digital Logic Lab
 - EEN 646 Wireless Communication
+
 === Spring 2019
 - EEN 231 Digital Logic
 - EEN 231L Digital Logic Lab

@@ -1,5 +1,6 @@
 # jemdoc: menu{MENU}{index.html}, nofooter
-==Research 
+
+== Research 
 
 ~~~
 . Cyber-physical system in extreme environments for smart health, climate-smart agriculture, underwater sensing, and underground infrastructure monitoring;
@@ -8,6 +9,17 @@
 . Modeling, fabrication, control, and characterization of reconfigurable antennas and RF metamaterials;
 . Wireless communications and networking in extreme environments using artificial intelligence.
 ~~~
+
+== Projects
+
+- 2022-2027 [lnfc.html LNFC: Long-Range Near Field Communication for Ultra-Dense Internet of Things]
+- 2020-2024 [bmagis.html Wireless Networking using Battery Free Devices in Inhomogeneous Environments]
+- 2020-2022 [audemous.html Autonomous Underwater Target Detection and Monitoring Using Swarm Robotics]
+- 2020-2022 [upram.html Cognitive Monitoring Systems using Intelligent Robots and Sensors in Dynamic Extreme Environments]
+
+== Links
+
+. NSF proposal template [https://github.com/nsf-open/nsf-proposal-latex-samples] 
 
 
 

@@ -1,0 +1,29 @@
+# jemdoc: menu{MENU}{index.html}
+==LNFC: Long-Range Near Field Communication for Ultra-Dense Internet of Things
+
+This project is supported by the National Science Foundation under grant No. 2310856.
+
+=== Intellectual Merit
+
+This project will develop a long-range NFC system with mobile robots for ultra-dense Internet of Things. The ultimate goal is to use the long-range NFC as an interface to connect everything and feed data to powerful Artificial Intelligence (AI) machines for intelligent management. The benefits of this approach are several. First, it uses magnetic signals at 13.56 MHz, which have a fast power falloff rate and do not compete for spectrum with typical wireless applications. Second, it is barely affected by the surrounding environment due to its long wavelength. Third, various NFC tags have been manufactured and used, which can fully support the developed technology. The key challenges are the short communication range and strong antenna coupling in an environment with ultra-dense tags. The long-range NFC readers will be developed by using tri-axis coils, self-interference cancellation, and magnetic blind beamforming to extend the communication range. Anti-collision protocols for strongly coupled tags will be designed. Also, orientation sensing and localization algorithms will be developed under the constraints of tag coupling and random orientation. The security and privacy issues created by the long communication range will also be considered and addressed by using near field jamming. Reconfigurable testbeds will be developed to verify the proposed approaches. Moreover, this project will employ the inquiry-based learning approach to cohesively integrate research and education.
+
+=== Broader Impacts
+
+This project will make scientific contributions by developing theories, algorithms, systems, and testbeds for long-range NFC, which will lay a foundation for ultra-dense Internet of Things to enable a large number of transformative applications, such as the Internet of Clothing and smart electronic stamp. The research outcomes will promote our understanding of the fundamental challenges and solutions of the ultra-dense Internet of Things. The developed long-range NFC technology has the potential to replace barcodes and allow more functionalities beyond identification. This project will provide undergraduate and graduate students with rich research opportunities in
+wireless communication and robotics. The integration of research and education will produce course materials and learning modules using inquiry-based learning at different levels, which can benefit students at minority-serving institutions, as well as K-12 students.
+
+=== Participants
+
+. Adam Kamrath (Junior, Computer Engineering), Summer 2023
+
+
+=== Publications
+
+. *Tutorial: Beyond Identification: HF RFID and NFC for Digital Twins.* \n
+  H. Guo and A. Pal \n
+  IEEE Military Communications Conference, 2023 \n
+  [https://milcom2022.milcom.org/program/tutorials Webpage]~~~~[/docs/Part1.pdf Slides 1]~~~~[/docs/Part2.pdf Slides 2]
+. *Poster: Long-range Near Field Communication for Ultra-dense Internet of Things.* \n
+  H. Guo \n  
+  IEEE RFID Conference, 2023. 
+

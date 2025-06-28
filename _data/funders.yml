@@ -1,0 +1,18 @@
+- image: NSF.png
+  url: https://www.nsf.gov/
+# - image: doe_logo.png
+#   url: https://www.energy.gov/
+# - image: onr_logo.png
+#   url: https://www.onr.navy.mil/
+# - image: NIH-logo.png
+#   url: https://www.nih.gov/
+- image: usda.png
+  url: https://www.nifa.usda.gov/
+- image: afrl.png
+  url: https://www.afrl.af.mil/
+- image: ndot.png
+  url: https://dot.nebraska.gov/
+- image: cci.jpg
+  url: https://cyberinitiative.org/
+- image: jeffress.jpg
+  url: https://hria.org/

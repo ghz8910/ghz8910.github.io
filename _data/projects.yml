@@ -1,0 +1,35 @@
+- title: "Extended Reality/Holographic-Type/3D Point Cloud sensing, communication, and networking"
+  image: "project1.png"
+  description: "Enable low-bandwidth, high-quality communication for Extended Reality (XR), holographic, and 3D point cloud applications. By designing efficient point cloud and XR video coding methods and leveraging machine learning and generative AI, the work optimizes data compression and reconstruction for immersive media. It also incorporates task-oriented communication to prioritize and transmit only essential information, supporting real-time, intelligent sensing and networking for next-generation immersive systems."
+  sponsor: USDA/NIFA
+  link: "/research/project1"
+
+- title: "Topological semantic communication"
+  image: "project2.png"
+  description: "Topological semantic communication represents meaning through data’s topological structure, enabling efficient encoding and decoding based on global geometric features rather than raw symbols."
+  sponsor: National Science Foundation
+  link: "/research/project2"
+
+- title: "Multi-modal machine learning and mulsemedia communication"
+  image: "project3.png"
+  description: "Multi-modal machine learning and mulsemedia communication integrate data from diverse sensors for applications like target detection and agriculture. This includes sensor data collection, transmission, and fusion, enabling robust decision-making through machine learning and deep learning techniques."
+  sponsor: AFRL, UNL Layman Seed Award, Nebraska DOT
+  link: "/research/project3"
+
+- title: "Near Field Communication and Internet of Things"
+  image: "project4.png"
+  description: "Near Field Communication (NFC) and Internet of Things (IoT) research focuses on large-scale deployment of NFC tags to digitize everyday objects, enabling reliable communication, efficient networking, and secure data exchange in IoT environments."
+  sponsor: National Science Foundation
+  link: "/research/project4"
+
+- title: "Underwater communication and multi-modal data fusion"
+  image: "project5.png"
+  description: "Underwater communication and multi-modal data fusion leverage magnetic, visible light, and acoustic communication to connect sensors and robots underwater. By fusing data from multiple modalities, the system enhances reliability and accuracy in detecting underwater targets."
+  sponsor: Jeffress Memorial Trust
+  link: "/research/project5"
+
+- title: "Underground communication and networking"
+  image: "project6.png"
+  description: "Underground communication and networking utilize magnetic communication to connect underground sensors for smart agriculture and infrastructure monitoring. This approach enables reliable data transmission in challenging subsurface environments."
+  sponsor: National Science Foundation
+  link: "/research/project6"

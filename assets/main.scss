@@ -1,0 +1,58 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+$baseurl: "{{ site.url }}{{ site.baseurl }}";
+
+// @import "variables";
+@import "bootstrap/bootstrap";
+// @import "syntax-highlighting";
+@import "bootstrap-4-jekyll/bootstrap-4-jekyll";
+// @import "bootstrap_customization";
+@import "bootstrap";
+@import "SHB_css";
+
+// ---- LIGHT THEME OVERRIDES ----
+
+// General page background and font
+body {
+  background-color: #ffffff !important;
+  color: #000000 !important;
+}
+
+// Ensure links and text inherit a readable color
+a {
+  color: #0000EE !important;
+}
+
+// Ensure jumbotron and wells have light background
+.jumbotron,
+.well-collapse {
+  background-color: #f9f9f9 !important;
+  color: #000000 !important;
+}
+
+// Navbar fix
+.navbar {
+  background-color: #ffffff !important;
+  color: #000000 !important;
+
+  a {
+    color: #000000 !important;
+  }
+}
+
+/* === Widen page layout overrides === */
+
+.container,
+.container-fluid,
+.content,
+.post,
+.col-md-8,
+.offset-md-2 {
+  max-width: 1140px; /* Adjust to 1024px, 1140px, etc. as needed */
+  width: 100%;
+  margin: 0 auto;
+  padding-left: 1rem;
+  padding-right: 1rem;
+}

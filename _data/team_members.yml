@@ -1,0 +1,26 @@
+# - name: Example student name
+#   photo: rock.jpg
+#   info: Postdoc, started Oct 2040
+#   email: exampleemail@gmail.com
+#   website: https://website.com
+
+- name: Dickson Sarpong
+  photo: dickson.jpg
+  info: PhD Student, Summer 2024 – Present
+
+- name: Rohit Bhusal
+  photo: rohit.jpg
+  info: PhD Student, Fall 2024 – Present
+
+- name: Omar Ansari
+  photo: omar.jpg
+  info: PhD Student, Summer 2024 – Present
+
+- name: Hammod Alshehri
+  photo: Hammod.jpg
+  info: PhD Student, Fall 2023 – Present
+
+- name: Roy Truong
+  photo: roy.jpeg
+  info: Undergraduate UCARE researcher, Summer 2025 – Present
+

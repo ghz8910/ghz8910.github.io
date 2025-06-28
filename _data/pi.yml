@@ -1,0 +1,19 @@
+- name: Hongzhi Guo
+  photo: hg2018.jpg
+  info: Assistant Professor, School of Computing, University of Nebraska-Lincoln
+  email: hguo10@unl.edu
+  # github: https://github.com/
+  # researchgate: https://www.researchgate.net/
+  # scholar: https://scholar.google.com/citations?user=B7vSqZsAAAAJ
+  # cv: cv/cv.pdf
+  # Change the items in "education" you have (up to 6)
+  education:
+    [
+      "(2017) Ph.D. State University of New York at Buffalo",
+      "(2013) MS Columbia University",
+    ]
+
+  educationshort:
+    [
+      "Assistant Professor,<br>         School of Computing,<br>         University of Nebraska-Lincoln",
+      ]

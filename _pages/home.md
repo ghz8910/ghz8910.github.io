@@ -29,17 +29,20 @@ Email: hguo10@unl.edu
 
 #### Education
 
-- Ph.D. State University of New York at Buffalo 2017
+- Ph.D. State University of New York at Buffalo, 2017 (Advisor: <a href="https://web.ee.tsinghua.edu.cn/zhisun/en/" target="_blank" rel="noopener">Prof. Zhi Sun</a>)
 - M.S. Columbia University 2013
 
 #### Selected Honors and Awards
 
-- Distinguished Member of the INFOCOM Technical Program Committee, 2025
-- Air Force Research Lab Visting Faculty Research Program, 2024, 2025
-- NSF CAREER 2022
-- NSF CRII 2020
-- Jeffress Memorial Trust Awards Program in Interdisciplinary Research 2020
-- NSF HBCU-UP RIA 2020
-- Best Demo Award, IEEE International Conference on Computer Communications (INFOCOM) 2017
-- Best Reviewer, IEEE Transactions on Wireless Communications 2017
-- National Scholarship, Ministry of Education of China. 2009
+- Best Paper Award Runner-Up, IEEE MASS (22nd International Conference on Mobile Ad-Hoc and Smart Systems), 2025
+- Best Demo Award, IEEE INFOCOM (IEEE International Conference on Computer Communications), 2017
+- NSF CAREER, 2022
+- NSF CRII, 2020
+- NSF HBCU-UP RIA, 2020
+- Jeffress Memorial Trust Awards Program in Interdisciplinary Research, 2020
+- Air Force Research Laboratory Visiting Faculty Research Program (VFRP), 2024, 2025
+- National Scholarship, Ministry of Education of China, 2009
+- Distinguished Member, IEEE INFOCOM TPC, 2025
+- Best Reviewer, IEEE Transactions on Wireless Communications, 2017, 2018
+
+
